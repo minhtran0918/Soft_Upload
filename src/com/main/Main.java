@@ -187,6 +187,7 @@ public class Main {
 				System.out.println(e1);
 			} catch (URISyntaxException e1) {
 				e1.printStackTrace();
+				
 			}
 		}
 	};
